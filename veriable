@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# Define veriable
+NAME="Zara Ali"
+VAR2=100
+
+# Access veriable
+echo $NAME
+
+# Readonly veriable
+#readonly NAME
+#NAME="Dongfeng"
+
+# Unsetting Variables
+unset NAME
+echo $NAME

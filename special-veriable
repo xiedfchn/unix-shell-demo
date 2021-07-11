@@ -1,0 +1,3 @@
+echo "File Name: $0"
+echo "First Prameter: $1"
+echo "Second Prameter: $2"

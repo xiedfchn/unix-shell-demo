@@ -1,0 +1,8 @@
+NAME[0]="Michael"
+NAME[1]="Paul"
+NAME[2]="Alan"
+
+echo "First Index: ${NAME[0]}"
+
+
+
