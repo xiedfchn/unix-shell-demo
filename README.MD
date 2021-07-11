@@ -15,3 +15,6 @@ $2 is the second parameter
 `NAME[1]="Qadir"`\
 `echo "First Index: ${NAME[0]}"`
 
+## Decision Making
+The if...else...fi statement is the next form of control statement that allows Shell to execute statements in a controlled way and make the right choice.
+`
