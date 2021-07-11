@@ -18,9 +18,9 @@ A Shell provides you with an interface to the Unix system.
 | `rm -i file1` | asks for confirmation that you want to delte file1 |
 
 ## Directories
-| Command | Description |
 
 ## Permissions
 | Command | Description |
-| `chmod u+r file`| change permissions of "file1" so user gains read permission |
+| --- | --- |
+| `chmod u+r file` | change permissions of "file1" so user gains read permission |
 
